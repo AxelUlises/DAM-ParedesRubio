@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "922742908024",
+    "project_id": "dam-u3-19400642",
+    "storage_bucket": "dam-u3-19400642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922742908024:android:96b8b496905141ff69398d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_ejercicio4_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH_YxoZF5czAeNTZN7awX-crzi-iuLms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922742908024:android:7839bd280587377269398d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_ejercicio6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH_YxoZF5czAeNTZN7awX-crzi-iuLms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922742908024:android:19446875a2353a9669398d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_personafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH_YxoZF5czAeNTZN7awX-crzi-iuLms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922742908024:android:6421453ceb4cee6069398d",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH_YxoZF5czAeNTZN7awX-crzi-iuLms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
